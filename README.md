@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart,UI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhayanimeet](https://github.com/bhayanimeet)
+- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
