@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Flutter,Dart,UI**
 
 - 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
+- This project is [MIT](LICENSE.md) Licensed.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
